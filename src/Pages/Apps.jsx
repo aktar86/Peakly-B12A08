@@ -1,10 +1,17 @@
-import React from "react";
+import React, { useState } from "react";
 import useAppsData from "../Hooks/useAppData";
 import AppCard from "../components/AppCard/AppCard";
+import AppNotFound from "../components/AppNotFound/AppNotFound";
 
 const Apps = () => {
+  
   const appData = useAppsData();
   const { apps } = appData;
+  const [search, setSearch] = useState("")
+  const trim = search.trim().toLowerCase();
+  const searchedApps = trim? apps.filter(app => app.title.toLowerCase().includes(trim)) : apps;
+  console.log(searchedApps);
+
 
   return (
     <div className="py-10">
@@ -17,15 +24,20 @@ const Apps = () => {
  {/* border-gradient-to-r from-[#632ee3] to-[#9f62f2] */}
  {/* border-[#632ee3] */}
         <div className="px-5 md:px-25 lg:px-25 mt-10 flex justify-between items-center">
-            <h1 className="text-2xl font-bold">({apps.length}) Apps Found</h1>
-            <input className="border-2  border-[#632ee3] px-5 py-2 outline-[#9f62f2]" type="search" placeholder="Search here" />
+            <h1 className="text-2xl font-bold">({searchedApps.length}) Apps Found</h1>
+            <input
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            className="border-2  border-[#632ee3] px-5 py-2 outline-[#9f62f2]" 
+            type="search" 
+            placeholder="Search here" />
         </div>
 
 
-      <div className="px-5 md:px-25 lg:px-25  grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mt-5">
-        {apps.map((app) => (
+      <div className="px-5 md:px-25 lg:px-25 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mt-5">
+        {searchedApps.length > 0 ? searchedApps.map((app) => (
           <AppCard key={app.id} app={app}></AppCard>
-        ))}
+        )) : <AppNotFound></AppNotFound>}
       </div>
     </div>
   );

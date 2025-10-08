@@ -1,12 +1,17 @@
 import { faDownload, faStar } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
+import { useNavigate } from 'react-router';
 
 const AppCard = ({app}) => {
-    console.log(app);
-    const {image, title, downloads, ratingAvg} = app;
+    // console.log(app);
+
+    const navigate = useNavigate()
+    const {image, title, downloads, ratingAvg, id} = app;
     return (
-        <div className='flex flex-col p-4 shadow-xl bg-white'>
+        <div 
+        onClick={() => navigate(`/app/${id}`)}
+        className='flex flex-col p-4 shadow-xl bg-white'>
             <img className='w-full h-86 object-cover' src={image} alt="" />
             <h3 className='text-xl font-bold my-2 flex-1'>{title}</h3>
             <div className='flex justify-between'>
