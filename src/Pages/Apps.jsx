@@ -6,17 +6,17 @@ import AppNotFound from "../components/AppNotFound/AppNotFound";
 const Apps = () => {
   
   const appData = useAppsData();
-  const { apps } = appData;
+  const { apps, loading } = appData;
   const [search, setSearch] = useState("")
   const trim = search.trim().toLowerCase();
   const searchedApps = trim? apps.filter(app => app.title.toLowerCase().includes(trim)) : apps;
-  console.log(searchedApps);
+  // console.log(searchedApps);
 
 
   return (
     <div className="py-10">
       <h1 className=" text-center font-bold text-5xl mb-3 text-[#001931]">
-        Trending Apps
+        Our All Applications
       </h1>
       <p className="text-[#627382] text-center text-xl">
         Explore All Trending Apps on the Market developed by us
@@ -35,7 +35,9 @@ const Apps = () => {
 
 
       <div className="px-5 md:px-25 lg:px-25 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mt-5">
-        {searchedApps.length > 0 ? searchedApps.map((app) => (
+        {loading? (
+          <p className="col-span-full flex justify-center items-center  text-xl font-semibold text-[#632ee3]">Loading...</p> 
+        ): searchedApps.length > 0 ? searchedApps.map((app) => (
           <AppCard key={app.id} app={app}></AppCard>
         )) : <AppNotFound></AppNotFound>}
       </div>

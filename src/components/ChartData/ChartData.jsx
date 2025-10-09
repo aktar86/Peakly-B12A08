@@ -3,11 +3,11 @@ import { BarChart, Bar, XAxis,YAxis, CartesianGrid, Tooltip, ResponsiveContainer
 
 const ChartData = ({barChartData}) => {
   const data = barChartData
-  console.log(data);
+  // console.log(data);
 
   return (
      
-    <div className="w-11/12 h-[400px] mt-10" >
+    <div className="w-12/12 h-[400px] mt-10" >
     <h1 className="font-bold text-xl" >Ratings</h1>
      
       <ResponsiveContainer width="100%" height="80%">

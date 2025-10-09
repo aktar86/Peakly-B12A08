@@ -1,10 +1,10 @@
 [
   {
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
-    "title": "Photo Editor Pro",
+    "image": "https://play-lh.googleusercontent.com/nLAAQdazPetGMo17Jml4tVin5T37DTEI2mrV8lUwFFu_stKBTy5gAyrEuNotVBgFyQ=w240-h480-rw",
+    "title": "AI Photo Editor - Lumii",
     "companyName": "PixelPerfect Inc",
     "id": 1,
-    "description": "Professional photo editing app with advanced features",
+    "description": "AI Photo Editor - Lumii is a revolutionary tool designed to bring professional-grade photo editing to your fingertips. With advanced AI-driven features, users can enhance, retouch, and transform images effortlessly. Whether you are a professional photographer or a hobbyist, Lumii provides intuitive controls and smart suggestions to improve image quality with just a few taps. From adjusting lighting and color balance to fine-tuning details, the app ensures that every photo stands out.\n\nThe app's AI-powered filters automatically detect the content and mood of your images, offering personalized adjustments that save time and effort. You can apply artistic effects, remove unwanted objects, and sharpen details with precision, making your images gallery-ready in moments. Its batch processing feature allows users to edit multiple photos simultaneously, a feature especially beneficial for social media enthusiasts and content creators.\n\nMoreover, Lumii is designed for seamless integration with social media platforms, allowing direct sharing on Instagram, Facebook, or Twitter. Its user-friendly interface ensures that both beginners and experts can navigate through tools with ease, while tutorials and tips guide users to make the most of the app. The combination of AI innovation and creative flexibility positions Lumii as a must-have tool for anyone looking to elevate their photography experience.\n\nWith continuous updates and feature enhancements, Lumii evolves alongside user needs, introducing new filters, effects, and editing techniques regularly. The app’s commitment to privacy ensures that all edits remain local unless explicitly shared, giving users complete control over their content. Lumii is more than just a photo editor; it’s a companion for your creative journey, empowering users to explore their artistic potential effortlessly.",
     "size": 156,
     "reviews": 1245,
     "ratingAvg": 4.5,
@@ -18,11 +18,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
-    "title": "Music Streamer",
+    "image": "https://play-lh.googleusercontent.com/ItfrVJ-qzrRIFF6lAPmqg8l1cN-ORPxT06UESRYIPUFxajyCRQWAyTPwWG9voz3MNw4=w240-h480-rw",
+    "title": "Joytify - Music & Playlists",
     "companyName": "SoundWave Labs",
     "id": 2,
-    "description": "High-quality music streaming with offline mode",
+    "description": "Joytify - Music & Playlists offers an immersive music streaming experience, tailored to every listener’s taste. With millions of tracks from various genres, Joytify allows users to explore new music, discover trending hits, and create personalized playlists. The app’s recommendation system uses advanced algorithms to suggest songs based on listening habits, ensuring a continuous flow of music that matches your mood and preferences.\n\nThe platform provides a clean and intuitive interface that makes navigating music effortless. Users can create playlists, follow favorite artists, and share tracks with friends effortlessly. Offline mode ensures that music is available anytime, even without an internet connection, making Joytify perfect for commutes, travel, or workout sessions. Additionally, curated playlists by expert DJs and music enthusiasts help users discover hidden gems and timeless classics.\n\nJoytify also supports high-quality audio streaming, catering to audiophiles who demand crystal-clear sound. Integration with smart devices, including speakers and wearable gadgets, allows seamless control and playback across multiple platforms. Social features enable users to connect with friends, explore what they are listening to, and collaborate on playlists, enhancing the community experience.\n\nBeyond music, Joytify offers a variety of podcasts, live radio stations, and exclusive content from top artists. Frequent app updates introduce new features, improved algorithms, and enhanced user experience. Joytify combines technology, entertainment, and social connectivity to provide a truly engaging music ecosystem for all users.",
     "size": 89,
     "reviews": 2890,
     "ratingAvg": 4.8,
@@ -36,11 +36,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64",
-    "title": "Fitness Tracker",
+    "image": "https://play-lh.googleusercontent.com/j-ZV144PlVuTVsLuBzIKyEw9CbFnmWw9ku2NJ1ef0gZJh-iiIN1nrNPmAtvgAteyDqU=w240-h480-rw",
+    "title": "Strava: Run, Bike, Hike",
     "companyName": "HealthTech Solutions",
     "id": 3,
-    "description": "Comprehensive fitness and workout tracking app",
+    "description": "Strava: Run, Bike, Hike is a comprehensive fitness tracking app designed to motivate and guide users in their running, cycling, and hiking journeys. Using GPS and real-time data, Strava records distance, pace, elevation, and route information with unmatched accuracy. The app allows users to set goals, track progress, and analyze performance over time, providing insights that help improve fitness levels.\n\nThe app’s social platform connects athletes from around the world, enabling users to share activities, achievements, and personal milestones. Strava’s community-driven challenges encourage users to compete, stay motivated, and push personal boundaries. Whether training for a marathon, exploring new trails, or cycling long distances, Strava fosters a sense of camaraderie and accountability.\n\nAdvanced analytics and visualizations provide detailed performance metrics, including heart rate, cadence, and power output for cyclists. Users can review past workouts, identify trends, and adjust their routines for optimal results. Integration with wearable devices, smartwatches, and sensors ensures comprehensive tracking for a wide range of fitness activities.\n\nStrava continues to evolve with new features like personalized coaching, safety tracking, and route discovery, making it more than just a fitness tracker. Its intuitive interface, reliable GPS tracking, and strong community support make it an indispensable tool for both amateur and professional athletes seeking to enhance their physical performance.",
     "size": 112,
     "reviews": 876,
     "ratingAvg": 4.3,
@@ -54,11 +54,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1551650992-ee4fd47df41f",
-    "title": "Budget Planner",
+    "image": "https://play-lh.googleusercontent.com/DqAKT8mJJWAQMzPuNTFL1CyhwVJkCEfQlv8CGlh7tNLPe81h92T-SwWG6UQLXydpEBNz=w240-h480-rw",
+    "title": "Wallet: Budget Expense Tracker",
     "companyName": "FinanceMaster Ltd",
     "id": 4,
-    "description": "Smart budget planning and expense tracking",
+    "description": "Wallet: Budget Expense Tracker is a personal finance app designed to simplify money management. It allows users to monitor income, expenses, and savings effortlessly through an intuitive interface. With real-time updates and categorized expense tracking, Wallet ensures users have a clear understanding of their financial health at all times.\n\nThe app provides customizable budgeting tools, enabling users to set spending limits for different categories and receive alerts when approaching thresholds. Advanced analytics help identify spending patterns, areas for saving, and opportunities to optimize financial behavior. Users can generate detailed reports and charts, offering a visual perspective on their monetary habits.\n\nWallet integrates with bank accounts and payment platforms, enabling automatic transaction imports and seamless account reconciliation. Data security is a top priority, with strong encryption and privacy measures ensuring financial information remains safe. Users can also back up data locally or to cloud storage for accessibility across devices.\n\nAdditionally, Wallet offers goal-setting features for saving toward specific targets such as vacations, education, or large purchases. With reminders, notifications, and an intuitive interface, Wallet empowers users to take control of their finances, promoting better budgeting, disciplined spending, and long-term financial wellness.",
     "size": 67,
     "reviews": 1567,
     "ratingAvg": 4.6,
@@ -72,11 +72,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692",
-    "title": "Language Tutor",
+    "image": "https://play-lh.googleusercontent.com/6Gk_g4EhaXRFkb4QiH0Hif-eNeFWy_MBH9cqQLKLo6nwP7fBBXQXg4RFueUx7t3nwgU=w240-h480-rw",
+    "title": "Learn English, Spanish: Learna",
     "companyName": "LinguaLearn Inc",
     "id": 5,
-    "description": "Interactive language learning with speech recognition",
+    "description": "Learn English, Spanish: Learna is a language learning app designed for users seeking fluency and conversational confidence in multiple languages. The app uses interactive lessons, engaging exercises, and real-life scenarios to make learning effective and enjoyable. Vocabulary, grammar, and pronunciation are all covered, with adaptive difficulty levels that adjust according to the learner’s progress.\n\nThe app features audio lessons, voice recognition, and quizzes to reinforce understanding and retention. Learners can practice speaking, reading, writing, and listening skills through gamified activities that make daily practice fun and motivating. Cultural insights and practical expressions ensure that learners gain not only linguistic skills but also a deeper understanding of native-speaking contexts.\n\nLearna offers a personalized learning path, where users can focus on specific areas such as business language, travel communication, or casual conversation. Progress tracking and performance analytics provide feedback and motivation, helping learners stay committed to their goals. The app also encourages social interaction by connecting learners worldwide for practice and language exchange.\n\nWith offline access, customizable lesson plans, and continuous updates introducing new lessons and features, Learna makes language acquisition accessible and flexible. Whether for academic purposes, career growth, or personal enrichment, Learna empowers users to achieve language mastery in an engaging, structured, and effective manner.",
     "size": 234,
     "reviews": 3456,
     "ratingAvg": 4.7,
@@ -90,11 +90,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d",
-    "title": "Recipe Book",
+    "image": "https://play-lh.googleusercontent.com/Ie88X5s51HN8-vfuNv_LYfamon6JAvFnxfbIrxXrI0LRd9vpnEQWAq5Pz83bEJU4Sfc=w240-h480-rw",
+    "title": "Recipe Keeper",
     "companyName": "Chef's Choice",
     "id": 6,
-    "description": "Thousands of recipes with step-by-step instructions",
+    "description": "Recipe Keeper is a comprehensive cooking companion that allows users to organize, store, and access their favorite recipes with ease. The app supports importing recipes from websites, manually adding your own, or capturing recipes from books and magazines. With intuitive categorization, users can sort recipes by meal type, cuisine, or dietary preference, ensuring quick access whenever needed.\n\nThe app includes a dynamic meal planner and shopping list feature, enabling users to plan meals for the week and automatically generate a grocery list based on selected recipes. This ensures efficient shopping and minimizes food waste. Step-by-step instructions, along with ingredient scaling, allow cooks of all skill levels to prepare meals with confidence and accuracy.\n\nRecipe Keeper also provides a platform for sharing recipes with friends and family, creating a community of culinary enthusiasts. Notes and ratings allow users to record personal modifications and track feedback from others. Its offline accessibility ensures that recipes are always available in the kitchen, without needing an internet connection.\n\nWith regular updates introducing new features such as nutritional information, voice-guided cooking, and integration with smart kitchen devices, Recipe Keeper combines technology with the joy of cooking. It’s more than just an app; it’s a personal kitchen assistant that enhances meal preparation, creativity, and culinary enjoyment.",
     "size": 145,
     "reviews": 2341,
     "ratingAvg": 4.4,
@@ -108,11 +108,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1556742044-3c52d6e88c62",
-    "title": "Weather Pro",
+    "image": "https://play-lh.googleusercontent.com/rWWb2gQZNBmL2wBqHX4fTHmLw0H3nlxblIW4JMcQgYdEG8SX5blGfx06-NG5va2Ke8cj=w240-h480-rw",
+    "title": "WeatherPro: Forecast & Radar",
     "companyName": "ClimateTech",
     "id": 7,
-    "description": "Accurate weather forecasts and severe weather alerts",
+    "description": "WeatherPro: Forecast & Radar is an advanced weather application designed to provide accurate, real-time forecasts and interactive radar visuals. Users can monitor temperature, precipitation, wind speed, and severe weather alerts for any location worldwide. With customizable notifications, you can stay informed about changing weather conditions that may affect daily activities, travel plans, or outdoor events.\n\nThe app features high-resolution radar maps and satellite imagery, offering a visual representation of weather patterns and storm movements. Users can zoom in for local forecasts or zoom out for regional and global trends, providing a detailed understanding of climate conditions. Hourly, daily, and weekly forecasts help with short-term planning as well as long-term scheduling.\n\nWeatherPro also offers historical weather data, allowing users to analyze trends, track anomalies, and make data-driven decisions. Its intuitive interface ensures that complex meteorological data is presented in a clear, accessible format for both casual users and weather enthusiasts. Integration with widgets allows quick access to weather updates directly from the home screen.\n\nContinuous updates and AI-powered forecasting technology ensure that WeatherPro remains accurate and reliable. Whether planning a weekend getaway, preparing for outdoor sports, or simply checking today’s conditions, WeatherPro provides a comprehensive weather solution that combines precision, clarity, and convenience.",
     "size": 78,
     "reviews": 4123,
     "ratingAvg": 4.2,
@@ -126,11 +126,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1659177121700-bc9c36da8a40?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "title": "Meditation Guide",
+    "image": "https://play-lh.googleusercontent.com/S76GphUu2pZa249td2Bb4XAhLcPRrFdL1zp_5qU1ouukvRq9r0-8jJ-CruaTtdT6g84=w240-h480-rw",
+    "title": "Calm - Sleep, Meditate, Relax",
     "companyName": "Mindful Moments",
     "id": 8,
-    "description": "Guided meditation and mindfulness exercises",
+    "description": "Calm - Sleep, Meditate, Relax is a holistic wellness app designed to enhance mental health, relaxation, and mindfulness. It provides guided meditation sessions, sleep stories, breathing exercises, and relaxing soundscapes to reduce stress, improve focus, and promote overall well-being. Users can customize their experience to target anxiety, insomnia, concentration, or emotional resilience.\n\nThe app features a wide variety of meditation programs tailored to different skill levels and goals, from beginners to experienced practitioners. Sleep stories narrated by soothing voices help users unwind, making it easier to fall asleep naturally. Soundscapes, such as rain, ocean waves, and ambient forest sounds, create a calming environment for meditation or relaxation.\n\nCalm also includes daily mindfulness exercises, mood tracking, and journaling tools to support long-term emotional growth. The app encourages regular practice through reminders, streaks, and motivational insights, fostering sustainable mindfulness habits. Integration with wearable devices allows users to monitor heart rate and stress levels during meditation sessions.\n\nWith frequent updates introducing new meditations, sleep stories, and wellness content, Calm remains a dynamic platform for mental well-being. Its intuitive interface, soothing design, and scientifically backed techniques make it a trusted companion for anyone seeking to cultivate inner peace and better sleep habits.",
     "size": 93,
     "reviews": 1678,
     "ratingAvg": 4.9,
@@ -144,11 +144,11 @@
     ]
   },
   {
-    "image": "https://plus.unsplash.com/premium_photo-1679088033944-8aaee9246f78?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "title": "Travel Companion",
+    "image": "https://play-lh.googleusercontent.com/xrrorlCM1uz0PfeJK-rZXECcdtXOm_67Glel2ezTPmQkFJ-46qguaRUUZP7rKZ25HMTYLg-j7sp2QbzsCThn1qs=w240-h480-rw",
+    "title": "Byrd - Travel companion",
     "companyName": "Wanderlust Tech",
     "id": 9,
-    "description": "All-in-one travel planning and booking app",
+    "description": "Byrd - Travel companion is an all-in-one travel assistant app that simplifies planning, navigation, and exploration for globetrotters. Users can organize itineraries, find accommodations, book transportation, and discover local attractions effortlessly. Byrd provides personalized recommendations based on preferences, travel history, and interests, ensuring a tailored travel experience.\n\nThe app features interactive maps with points of interest, real-time directions, and offline accessibility to ensure travelers stay informed even without an internet connection. Reviews, ratings, and travel tips from a global community help users make informed decisions regarding hotels, restaurants, and sightseeing locations.\n\nByrd also integrates with calendars, reminders, and note-taking tools, allowing users to keep all travel plans and documents organized in one place. Users can share itineraries with friends and family, collaborate on trip planning, and receive alerts for flight updates or weather changes.\n\nWith regular updates introducing new destinations, cultural insights, and travel guides, Byrd enhances both convenience and discovery. The app’s user-friendly interface, comprehensive features, and social integration make it an essential companion for travelers seeking a seamless and enjoyable journey.",
     "size": 187,
     "reviews": 2987,
     "ratingAvg": 4.5,
@@ -162,11 +162,11 @@
     ]
   },
   {
-    "image": "https://plus.unsplash.com/premium_photo-1720192861880-ecbd9f5a2ffe?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "title": "Note Taker Plus",
+    "image": "https://play-lh.googleusercontent.com/cQVqVS7pAGWgAJLu2gWunS9-88XKablzSsMLo_RmzWGZX1nE-8E4MwblJEVkeSuMeRkBSDHkwQAqU-pUVWVY=w240-h480-rw",
+    "title": "AI Note Taker - Voice To Notes",
     "companyName": "Digital Notes Co",
     "id": 10,
-    "description": "Advanced note taking with cloud synchronization",
+    "description": "AI Note Taker - Voice To Notes transforms the way users capture ideas, meetings, and personal notes by using cutting-edge voice recognition technology. The app allows users to dictate notes, which are then accurately transcribed, organized, and stored for easy retrieval. This eliminates the need for manual typing and ensures that important information is never lost.\n\nThe app supports categorization, tagging, and searching of notes, making it simple to manage personal, academic, or professional content. Users can create reminders, set priorities, and link notes to calendar events, ensuring that ideas and tasks are seamlessly integrated into daily routines.\n\nAI Note Taker also includes collaboration features, allowing users to share notes with colleagues, classmates, or friends. The app supports syncing across multiple devices, ensuring access to important information anytime, anywhere. Security measures such as encryption protect sensitive content, giving users peace of mind.\n\nWith continuous improvements in AI accuracy and functionality, the app evolves to provide smarter suggestions, summary capabilities, and enhanced voice-to-text efficiency. It is an indispensable tool for productivity, helping users stay organized, focused, and efficient in capturing every thought and detail.",
     "size": 54,
     "reviews": 4567,
     "ratingAvg": 4.6,
@@ -180,11 +180,11 @@
     ]
   },
   {
-    "image": "https://plus.unsplash.com/premium_photo-1661685433483-cf604db44bc3?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "title": "Social Media Manager",
+    "image": "https://play-lh.googleusercontent.com/eJ-WOWYOx0IHYcO3WRaEvJpaMY7RD29xlDyPE8ec46P_cx5T4Lpkz4LIsXGCJ7Uw1-w=w240-h480-rw",
+    "title": "Buffer: Social Media Scheduler",
     "companyName": "SocialPro Tools",
     "id": 11,
-    "description": "Manage multiple social media accounts in one place",
+    "description": "Buffer: Social Media Scheduler is a powerful platform designed to help individuals and businesses manage their social media presence efficiently. Users can schedule posts across multiple platforms, analyze engagement metrics, and optimize posting times to maximize reach and interaction. The app supports platforms like Facebook, Instagram, Twitter, LinkedIn, and more, ensuring a centralized management system.\n\nWith an intuitive calendar interface, Buffer allows users to plan and visualize their content strategy for weeks in advance. Drafting, editing, and previewing posts is seamless, with real-time collaboration features that allow teams to work together effectively. Notifications and reminders help ensure that scheduled content is always posted at the right time.\n\nAnalytics and reporting features provide in-depth insights into audience engagement, post performance, and follower growth. Users can identify which content resonates most and adjust their strategies accordingly. The app also supports content curation, making it easier to discover trending topics and relevant posts to share with followers.\n\nBuffer continuously evolves with features like AI-powered suggestions, hashtag recommendations, and link shortening, empowering users to enhance their social media marketing efforts. Its combination of scheduling, analytics, and collaboration tools makes Buffer an indispensable companion for individuals and businesses aiming to build a strong and consistent social media presence.",
     "size": 134,
     "reviews": 1876,
     "ratingAvg": 4.3,
@@ -198,11 +198,11 @@
     ]
   },
   {
-    "image": "https://plus.unsplash.com/premium_photo-1677187301535-b46cec7b2cc8?q=80&w=1223&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "title": "PDF Reader Pro",
+    "image": "https://play-lh.googleusercontent.com/w7IVOKIbN-A038gZxPMyg_UppxVHU_cgpBVYjLY9iGuTbHFUI7wCS8IiF-BvfH1nrXYgigatql2hGsovoTVq1A=w240-h480-rw",
+    "title": "PDF Reader Pro – Fast & Secure",
     "companyName": "Document Solutions",
     "id": 12,
-    "description": "Advanced PDF reader with annotation tools",
+    "description": "PDF Reader Pro – Fast & Secure is a comprehensive document management application designed for reading, annotating, and organizing PDF files efficiently. The app offers a high-speed viewing experience with smooth navigation and zoom capabilities. Users can highlight text, add comments, and mark important sections for easier reference and review.\n\nBeyond simple reading, PDF Reader Pro provides robust editing tools that allow users to insert text, images, and signatures, making it ideal for both personal and professional use. Users can also merge, split, and convert PDF files into other formats, streamlining document workflows and improving productivity.\n\nSecurity is a key feature of the app, with password protection, encryption, and secure sharing options ensuring sensitive documents remain confidential. Integration with cloud storage services like Google Drive, Dropbox, and OneDrive allows seamless access to files across devices and platforms.\n\nWith continuous updates introducing enhanced tools, annotation styles, and performance optimizations, PDF Reader Pro delivers a complete and reliable PDF experience. Its combination of speed, functionality, and security makes it indispensable for students, professionals, and anyone handling digital documents regularly.",
     "size": 76,
     "reviews": 3245,
     "ratingAvg": 4.4,
@@ -216,11 +216,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1703300450387-047da16a89c4?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "title": "Calendar Sync",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/12/fb/b712fb2e-3165-bb67-c53f-303594bd31b2/AppIcon_Free-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp",
+    "title": "Tiny Calendar: Planner & Tasks",
     "companyName": "TimeMaster Inc",
     "id": 13,
-    "description": "Smart calendar with cross-platform synchronization",
+    "description": "Tiny Calendar: Planner & Tasks is a versatile productivity app designed to help users organize their daily schedules, appointments, and tasks with precision. The app offers a clear, user-friendly interface that allows users to create events, set reminders, and track deadlines effortlessly. Customizable color codes, labels, and categories enhance visual organization and clarity.\n\nThe app includes smart syncing across multiple devices and platforms, ensuring that your calendar is always up to date. Users can integrate their calendar with Google Calendar, Outlook, or iCloud, providing a seamless experience for personal and professional planning. Recurring events, alerts, and priority settings help manage time effectively.\n\nTiny Calendar also provides task management features, enabling users to create to-do lists, set milestones, and track progress on projects. Widgets and notifications keep users informed and on schedule, reducing missed deadlines and improving productivity. Collaborative features allow sharing schedules with family, friends, or colleagues for better coordination.\n\nWith frequent updates adding new tools, calendar views, and efficiency enhancements, Tiny Calendar serves as a comprehensive solution for time management. Its combination of scheduling, task tracking, and collaboration makes it an essential app for individuals seeking better organization and productivity.",
     "size": 88,
     "reviews": 2134,
     "ratingAvg": 4.7,
@@ -234,11 +234,11 @@
     ]
   },
   {
-    "image": "https://plus.unsplash.com/premium_photo-1687203673190-d39c3719123a?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://play-lh.googleusercontent.com/PAZzMrnpt_YOQEpZ7CZ8amj7NntqDD2UuI8tVXklCfUg3q4Iwma0UjoedjICkNxjbcM=w240-h480-rw",
     "title": "Video Converter",
     "companyName": "MediaTools Pro",
     "id": 14,
-    "description": "Convert videos between all popular formats",
+    "description": "Video Converter is a professional-grade app that simplifies the process of converting, compressing, and editing video files. Supporting a wide range of formats, the app ensures compatibility across devices, platforms, and media players. Users can easily convert videos into formats suitable for mobile playback, social media sharing, or professional projects.\n\nThe app features batch conversion, allowing multiple videos to be processed simultaneously, saving time and effort. Advanced compression options reduce file sizes without compromising quality, making storage and sharing more efficient. Users can also extract audio tracks, crop, and trim videos to meet specific needs.\n\nWith a user-friendly interface, Video Converter provides both basic and advanced tools accessible to beginners and experienced users alike. Preset conversion profiles simplify complex tasks, while customization options provide precise control over resolution, bitrate, and format settings.\n\nRegular updates introduce new codecs, enhanced performance, and additional editing features, ensuring the app remains versatile and reliable. Video Converter combines speed, functionality, and ease of use, making it a must-have for content creators, students, and professionals working with multimedia.",
     "size": 156,
     "reviews": 1456,
     "ratingAvg": 4.1,
@@ -252,11 +252,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1589652739890-77a7733b8a23?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "title": "Password Manager",
+    "image": "https://play-lh.googleusercontent.com/NxyEuJRx4jjR1Q9PXOPGExFQXDKr_pZJ61Cb15eR0aX3UTZKAxWsXvK9Gh4K-NUd5A=w240-h480-rw",
+    "title": "Twilio Authy Authenticator",
     "companyName": "SecureVault Tech",
     "id": 15,
-    "description": "Secure password storage and auto-fill features",
+    "description": "Twilio Authy Authenticator is a robust security app designed to protect accounts with two-factor authentication (2FA). It generates secure, time-based one-time passwords (TOTPs) to provide an additional layer of protection for online accounts. By using Authy, users can safeguard sensitive information and prevent unauthorized access, even if passwords are compromised.\n\nThe app supports multiple accounts and devices, ensuring that users can access authentication codes wherever they need them. Backup and recovery options prevent loss of access, even if a device is replaced or lost. Authy integrates seamlessly with numerous online services and platforms, providing versatile security coverage.\n\nPush notifications simplify login verification, allowing users to approve or deny authentication requests quickly. Offline mode ensures that codes are always accessible, even without an internet connection. The app's encryption and secure storage mechanisms maintain privacy and data integrity.\n\nWith continuous updates adding support for new services, improved user interface, and enhanced security features, Twilio Authy Authenticator remains a trusted solution for digital security. It empowers users to take control of their online safety with confidence and ease.",
     "size": 67,
     "reviews": 3789,
     "ratingAvg": 4.8,
@@ -270,11 +270,11 @@
     ]
   },
   {
-    "image": "https://plus.unsplash.com/premium_photo-1663099875559-b485486b538e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "title": "Shopping List",
+    "image": "https://play-lh.googleusercontent.com/mz0u8-M5Q4rVuokRUkKopwnnWqVFBQe09Tb8M4HrwRegpLGKJwLmeFmcDe2i8gl_8A=w240-h480-rw",
+    "title": "Grocery List - Shopping List",
     "companyName": "Daily Organizer",
     "id": 16,
-    "description": "Smart shopping lists with price comparison",
+    "description": "Grocery List - Shopping List is a practical app designed to simplify grocery planning and shopping experiences. Users can create detailed lists, categorize items by type or store section, and mark purchased items for efficient tracking. The app ensures that shopping trips are organized, reducing the chance of forgetting essential items.\n\nThe app includes customizable templates and smart suggestions based on frequently purchased items, allowing users to build lists quickly. Collaborative features enable sharing of grocery lists with family members or roommates, ensuring everyone is on the same page and streamlining household management.\n\nUsers can also set reminders, schedule recurring shopping lists, and track spending, helping maintain budgets and control expenses. Barcode scanning makes adding items quick and accurate, while notes and quantity adjustments provide flexibility for specific needs.\n\nRegular updates bring enhanced usability, integration with digital coupons, and improved navigation. Grocery List - Shopping List combines convenience, efficiency, and organization, making it an essential tool for individuals and families seeking stress-free and well-planned shopping experiences.",
     "size": 45,
     "reviews": 987,
     "ratingAvg": 4.2,
