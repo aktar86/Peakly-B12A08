@@ -6,7 +6,7 @@ import React from "react";
 const InstalledAppList = ({ app, handleUninstall }) => {
   const {id, image, title, downloads, ratingAvg, size } = app;
   return (
-    <div className="flex justify-between  gap-5 items-center bg-white rounded-lg p-3">
+    <div className="flex md:justify-between flex-col md:flex-row gap-5 md:items-center bg-white rounded-lg p-3">
       <div className="flex flex-1 gap-5">
         <img className="w-32 h-32 object-cover rounded-xl" src={image} />
         <div>
@@ -31,7 +31,7 @@ const InstalledAppList = ({ app, handleUninstall }) => {
         </div>
       </div>
       <div>
-        <button onClick={() => handleUninstall(id)} className="w-40 p-2 bg-green-400 text-white text-xl ">Uninstall</button>
+        <button onClick={() => handleUninstall(id)} className="w-40 p-2 rounded-sm bg-[#00D390] hover:bg-[#00b37a] text-white text-xl cursor-pointer">Uninstall</button>
       </div>
     </div>
   );

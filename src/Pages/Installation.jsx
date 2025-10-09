@@ -24,7 +24,7 @@ const Installation = () => {
 
     setInstallation(remainingData);
 
-    toast.info("App Uninstalled 🗑️", {
+    toast.info("App Uninstalled", {
       position: "top-center",
       autoClose: 1500,
       hideProgressBar: false,
@@ -46,7 +46,7 @@ const Installation = () => {
 
 
   return (
-    <div className="px-20 py-20">
+    <div className="lg:px-20 py-20">
       <div>
         <h1 className="text-[#001931] text-3xl md:text-5xl font-extrabold text-center">
           Your Installed Apps
@@ -55,14 +55,14 @@ const Installation = () => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <div className="flex justify-between mt-10 p-10 px-10">
+      <div className="flex justify-between mt-10 px-5 md:p-10 md:px-10">
         <h1 className="font-bold text-xl">
           {" "}
           <span>{installation.length}</span> Apps Found{" "}
         </h1>
         <button>Sort</button>
       </div>
-      <div className="space-y-5 px-10 ">
+      <div className="space-y-5 px-5 mt-5 lg:px-10 ">
         {installation.map((app) => (
           <InstalledAppList
             key={app.id}

@@ -11,9 +11,9 @@ const AppCard = ({ app }) => {
   return (
     <div
       onClick={() => navigate(`/app/${id}`)}
-      className="flex flex-col p-4 shadow-xl bg-white"
+      className="flex flex-col p-4 shadow-xl bg-white rounded-sm"
     >
-      <img className="w-full h-86 object-cover" src={image} alt="" />
+      <img className="w-full h-86 object-cover rounded-lg" src={image} alt="" />
       <h3 className="text-xl font-bold my-2 flex-1">{title}</h3>
       <div className="flex justify-between">
         <span className="flex items-center gap-1 text-green-500 rounded-sm bg-[#F1F5E8] px-2">

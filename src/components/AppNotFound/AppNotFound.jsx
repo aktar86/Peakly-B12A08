@@ -12,7 +12,7 @@ const AppNotFound = () => {
             <h1 className='font-bold text-5xl mt-10'>OPPS!! APP NOT FOUND</h1>
             <p className='text-lg text-[#627382] '>The App you are requesting is not found on our system.  please try another apps</p>
 
-            <Link onClick={() => navigate('/apps')}  className='bg-gradient-to-r from-[#632EE3] to-[#9F62F2] px-10 py-3 text-xl text-white font-bold mt-5'>
+            <Link onClick={() => navigate('/')}  className='bg-gradient-to-r from-[#632EE3] to-[#9F62F2] px-10 py-3 text-xl text-white font-bold mt-5'>
             Go Back!
             </Link>
         </div>

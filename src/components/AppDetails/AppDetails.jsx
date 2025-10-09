@@ -6,7 +6,6 @@ import StarIcon from "../../assets/star.png";
 import ReviewIcon from "../../assets/review.png";
 import ChartData from "../ChartData/ChartData";
 import AppNotFound from "../AppNotFound/AppNotFound";
-
 import "react-toastify/dist/ReactToastify.css";
 import { toast } from "react-toastify";
 
@@ -16,7 +15,6 @@ const AppDetails = () => {
   const { apps } = useAppsData();
   const appData = apps.find((a) => a.id === Number(id));
 
- 
   useEffect(() => {
     const saved = JSON.parse(localStorage.getItem("installation")) || [];
     const found = saved.find((app) => app.id === Number(id));
@@ -43,11 +41,9 @@ const AppDetails = () => {
 
   const barChartData = ratings;
 
-
   const installBtnhandler = () => {
-    if (install) return; 
-
-    const existingAppData = JSON.parse(localStorage.getItem("installation")) || [];
+    const existingAppData =
+      JSON.parse(localStorage.getItem("installation")) || [];
 
     const isDuplicate = existingAppData.some((p) => p.id === appData.id);
     if (isDuplicate) {
@@ -65,11 +61,13 @@ const AppDetails = () => {
       });
     }
 
+    if (install) return;
+
     const updatedApps = [...existingAppData, appData];
     localStorage.setItem("installation", JSON.stringify(updatedApps));
     setInstall(true);
 
-    toast.success("Yoo! App Installed Successfully 🎉", {
+    toast.success("Yoo! App Installed Successfully", {
       position: "top-center",
       autoClose: 2000,
       hideProgressBar: false,

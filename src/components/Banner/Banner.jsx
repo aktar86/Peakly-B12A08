@@ -18,11 +18,11 @@ const Banner = () => {
              <div className='space-x-5 text-center mt-5 flex justify-center'>
                 
                 <a href="https://play.google.com/store/apps?hl=en" target='blank'>
-                    <button className='w-40 border-2 border-[#D2D2D2] py-2 px-3 flex items-center justify-center gap-2 cursor-pointer font-bold rounded-sm' > <span><img src={PlayStore} alt="Play Store Icon" /></span>Google Play</button>
+                    <button className='w-40 border-2 border-[#D2D2D2] hover:bg-white py-2 px-3 flex items-center justify-center gap-2 cursor-pointer font-bold rounded-sm' > <span><img src={PlayStore} alt="Play Store Icon" /></span>Google Play</button>
                 </a>
 
                 <a href="https://www.apple.com/app-store/" target='blank'>
-                    <button className='w-40 border-2 border-[#D2D2D2] py-2 px-3 flex items-center justify-center gap-2 cursor-pointer font-bold rounded-sm' > <span><img src={AppStore} alt="Play Store Icon" /></span>App Store</button>
+                    <button className='w-40 border-2 border-[#D2D2D2] hover:bg-white py-2 px-3 flex items-center justify-center gap-2 cursor-pointer font-bold rounded-sm' > <span><img src={AppStore} alt="Play Store Icon" /></span>App Store</button>
                 </a>
                 
              </div>
