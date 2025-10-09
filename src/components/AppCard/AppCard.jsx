@@ -11,7 +11,7 @@ const AppCard = ({ app }) => {
   return (
     <div
       onClick={() => navigate(`/app/${id}`)}
-      className="flex flex-col p-4 shadow-xl bg-white rounded-sm"
+      className="flex flex-col p-4 shadow-xl bg-white rounded-sm transform transition duration-300 ease-in-out hover:scale-105"
     >
       <img className="w-full h-86 object-cover rounded-lg" src={image} alt="" />
       <h3 className="text-xl font-bold my-2 flex-1">{title}</h3>
