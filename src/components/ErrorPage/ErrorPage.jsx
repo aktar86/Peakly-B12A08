@@ -19,7 +19,7 @@ const ErrorPage = () => {
 
           <Link
             onClick={() => navigate("/")}
-            className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] px-10 py-3 text-xl text-white font-bold mt-5"
+            className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] px-10 py-2 text-xl text-white font-bold mt-5"
           >
             Go Back!
           </Link>

@@ -40,10 +40,10 @@ const Installation = () => {
 
 const sortedApps = () => {
   if(sortOrder === 'size-asc'){
-    return [...installation].sort((a,b) => a.size - b.size);
+    return [...installation].sort((a,b) => a.downloads - b.downloads);
   }
   else if(sortOrder === 'size-dece'){
-    return [...installation].sort((a,b) => b.size - a.size);
+    return [...installation].sort((a,b) => b.downloads - a.downloads);
   }
   else{
     return installation;
