@@ -133,7 +133,7 @@ const AppDetails = () => {
               onClick={installBtnhandler}
               className="py-2 px-5 text-white text-xl rounded-sm cursor-pointer bg-[#00D390]"
             >
-              {install ? "Installed " : `Install Now (${size})`}
+              {install ? "Installed " : `Install Now (${size} MB)`}
             </button>
           </div>
         </div>

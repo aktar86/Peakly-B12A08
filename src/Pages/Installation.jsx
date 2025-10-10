@@ -2,12 +2,11 @@ import React, { useEffect, useState } from "react";
 import InstalledAppList from "../components/InstalledAppList/InstalledAppList";
 import { toast } from "react-toastify";
 
-
-
 const Installation = () => {
   const [installation, setInstallation] = useState([]);
+  const [sortOrder, setSortOrder] = useState('none')
 
-
+  // console.log(installation);
 
   useEffect(() => {
     const saveAppData = JSON.parse(localStorage.getItem("installation"));
@@ -32,18 +31,25 @@ const Installation = () => {
         background: "#fff",
         color: "#e11d48",
         fontWeight: "bold",
-      },
+      },  
       progressStyle: {
         background: "#e11d48",
       },
     });
-
-
-
   };
 
-
-
+const sortedApps = () => {
+  if(sortOrder === 'size-asc'){
+    return [...installation].sort((a,b) => a.size - b.size);
+  }
+  else if(sortOrder === 'size-dece'){
+    return [...installation].sort((a,b) => b.size - a.size);
+  }
+  else{
+    return installation;
+  }
+}
+sortedApps()
 
   return (
     <div className="lg:px-20 py-20">
@@ -58,12 +64,21 @@ const Installation = () => {
       <div className="flex justify-between mt-10 px-5 md:p-10 md:px-10">
         <h1 className="font-bold text-xl">
           {" "}
-          <span>{installation.length}</span> Apps Found{" "}
+          <span>{sortedApps().length}</span> Apps Found{" "}
         </h1>
-        <button>Sort</button>
+        <label className="form-control outline-0 w-full max-w-xs">
+          <select 
+          value={sortOrder}
+          onChange={e => setSortOrder(e.target.value)}
+          className="select border border-[#632ee3] outline-0 font-bold">
+            <option value="none">Sort by Size</option>
+            <option value="size-asc">Low-&gt;High</option>
+            <option value="size-dece">High-&gt;Low</option>
+          </select>
+        </label>
       </div>
       <div className="space-y-5 px-5 mt-5 lg:px-10 ">
-        {installation.map((app) => (
+        {sortedApps().map((app) => (
           <InstalledAppList
             key={app.id}
             app={app}
